@@ -133,6 +133,7 @@
     <Compile Include="PlayerHealth.cs" />
     <Compile Include="PlayerInput.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SplittingEnemyController.cs" />
     <Compile Include="StartScript.cs" />
   </ItemGroup>
   <ItemGroup>
