@@ -120,6 +120,7 @@
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
     <Compile Include="BulletScript.cs" />
+    <Compile Include="ChildSplittingEnemy.cs" />
     <Compile Include="EnemyMove.cs" />
     <Compile Include="GunScript.cs" />
     <Compile Include="HealthBar.cs" />
